@@ -1,0 +1,2 @@
+(this["webpackJsonparddev.eu"]=this["webpackJsonparddev.eu"]||[]).push([[0],{9:function(e,n,t){"use strict";t.r(n);var c=t(1),r=t.n(c),s=t(3),d=t.n(s),i=t(0);var o=function(){return Object(i.jsx)("div",{className:"App",children:Object(i.jsx)("h1",{children:"Coming Soon"})})};d.a.render(Object(i.jsx)(r.a.StrictMode,{children:Object(i.jsx)(o,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.c3c179dc.chunk.js.map
